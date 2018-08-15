@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8518FCD5-FB74-4247-AB5F-ED5F50FE78C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineStoreCoreWebApi Status">
+    <Files>
+      <File FileName="OnlineStore.API/Controllers/TokenController.cs" Line="55" Column="9" />
+      <File FileName="OnlineStore.API/Properties/launchSettings.json" Line="24" Column="26" />
+      <File FileName="OnlineStore.API/Program.cs" Line="17" Column="1" />
+      <File FileName="OnlineStore.API/appsettings.json" Line="3" Column="49" />
+      <File FileName="OnlineStore.API/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="OnlineStore.API/Startup.cs" Line="81" Column="31" />
+      <File FileName="OnlineStore.Data/Dapper/DapperCategoryRepository.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.Data/Dapper/DapperUserRepository.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.Data/Dapper/SqlDbConnection.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.API/Models/LoginViewModel.cs" Line="12" Column="28" />
+      <File FileName="OnlineStore.API/Models/ProductResponse.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.API/Models/ProductWithCategoryResponse.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.Business/Services/CategoryService.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.Business/Services/ProductService.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.API/Controllers/CategoriesController.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.API/Controllers/ProductsController.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.API/Middlewares/DependencyInjectionMiddleware.cs" Line="1" Column="1" />
+      <File FileName="OnlineStoreCoreWebApi Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.OnlineStore.API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
